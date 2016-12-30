@@ -68,17 +68,15 @@ afficher.
 
 #Installation :  
 
-  * installer les dépendances via composer : right-click project -> composer -> install (dev) sous ubuntu via netbeans.
-  * Mettre un nom de base de données dans app -> config -> parameters.yml -> database_name: mettez votre votre mot de passe si vous en avez mis un au préalable.
-  * Créer la base de données via ligne de commande : "php bin/console doctrine:database:create".
-  * création base de données via doctrine "php bin/console doctrine:schema:create".
-  * création du compte admin en rajoutant /add apres web/app.php dans la barre dans l'url.
-  * le compte admin par défaut est "Email: admin@admin.fr ; Mot de passe: admin"
+ Pour exécuter les fichiers :
 
+Ouvrez le terminal
 
+Placez vous dans le dossier adéquat exo(numéro de l'exercice à l'aide de CD
 
+Ouvrir les fichiers
 
-
-
-
-
+Pour JAVA :-----Tapez la commande pour compiler javac exo1.java ------------------Puis tapez java exo1
+Pour PHP :------Tapez la commande php exo1.php
+Pour Python :---Tapez la commande python exo1.py
+Pour RUBY :-----Tapez la commande ruby exo1.rb
